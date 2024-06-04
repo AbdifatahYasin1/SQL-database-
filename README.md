@@ -4,33 +4,47 @@ Here's the Markdown formatted README file for the "SQL Database" repository:
 
 Structured SQL learning resource for students aspiring to master database skills.
 
-## SQL Installation Guide
+## Downloading and installing SQL Server
 
-Here is a step-by-step guide to install SQL Server 2022 and SQL Server Management Studio (SSMS):
+### Step 1: Go to your browser and write "SQL server [Edition Year]"
+- Visit the URL: https://www.microsoft.com/en-us/sql-server/sql-server-downloads
 
-### Step 1: Download SQL Server 2022
-1. Go to the SQL Server Downloads page on the Microsoft website: https://www.microsoft.com/en-us/sql-server/sql-server-downloads
-2. Select the edition of SQL Server 2022 you want to install (e.g. Developer, Express, etc.).
-3. Click the "Download" button and follow the prompts to download the installation package.
+### Step 2: Download the platform you have like Windows/macOS
+- Continue and fill the form, and when you fill the form, download the software.
 
-### Step 2: Install SQL Server 2022
-1. Run the SQL Server installation file you downloaded in the previous step.
-2. In the installation wizard, select "New SQL Server stand-alone installation or add features to an existing installation".
-3. Accept the license terms and click "Next".
-4. On the "Feature Selection" page, select the components you want to install and click "Next".
-5. On the "Instance Configuration" page, choose whether to use the default instance or a named instance, then click "Next".
-6. On the "Server Configuration" page, configure the service accounts and startup types, then click "Next".
-7. On the "Database Engine Configuration" page, choose the authentication mode (e.g. Windows Authentication, Mixed Mode) and set the administrator password, then click "Next".
-8. Review the summary of your installation settings and click "Install" to begin the installation process.
-9. Wait for the installation to complete, then click "Close" to exit the wizard.
+### Step 3: Open the downloaded file
+- You will see "SQL Server [Edition Year]".
+- You will see three options: Basic, Custom, and Download media, so choose the last one.
+- Then, choose your package you want and select the ISO package.
+- Choose "Browse" and select where you want to put it.
+- Then, select the "Download" button.
 
-### Step 3: Install SQL Server Management Studio (SSMS)
-1. Go to the SSMS download page on the Microsoft Learn website: https://learn.microsoft.com/en-us/sql/ssms/download-sql-server-management-studio-ssms?view=sql-server-ver16&viewFallbackFrom=sql-server-ver16%2F
-2. Click the "Download SSMS" button and follow the prompts to download the SSMS installation package.
-3. Run the SSMS installation file you downloaded.
-4. Follow the on-screen instructions to install SSMS.
+### Step 4: Download SQL Server Management Studio
+- Visit the URL: https://learn.microsoft.com/en-us/sql/ssms/download-sql-server-management-studio-ssms?view=sql-server-ver16&viewFallbackFrom=sql-server-ver16%2F
 
-That's it! You should now have SQL Server 2022 and SQL Server Management Studio installed on your system. You can now start using SQL Server to manage your data and develop your applications.
+### Step 6: Begin to install SQL Server ISO image
+- Go to the setup file and run as administrator.
+- Click "Installation" in the left corner of the wizard.
+- Click "New SQL Server stand-alone installation".
+- Click "Next" and specify the free edition for 'Developer' and don't choose a product key because we don't have it.
+- Accept the license and click "Next".
+- Click "Next" as we don't need any updates because we are using SQL Server [2022].
+- Click "Next" (the error is not indicating a major error).
+- Installation rules pass it and click "Next".
+- Click "Next" and select all, then untick the Machine, Data Quality, and Integration Services.
+- Click "Next" in the default instance and named instance, choose the default one.
+- In the Server Configuration, make the SQL Server Agent as automatic and click "Next".
+- In the Database Engine Configuration, choose mixed mode and set a password (remember this is the password you will use to enter your SQL Server).
+- Say "Add user" for the Specify SQL Server administrator and click "Next".
+- Click "Add current user" and click "Next".
+- Click "Next" and wait for the installation (it may take a few minutes).
+- Now you have SQL Server in your computer.
+
+### Step 7: Install SQL Server Management Studio
+- Run as administrator.
+- Install and then wait (it may take a few minutes).
+
+Now, everything is complete.
 
 ## Slides
 
