@@ -48,7 +48,7 @@ Now, everything is complete.
 
 ## Slides
 
-- [Folder 1](Folder1)
+- [Introduction of Database](Introduction of Database.pptx)
 - [Folder 2](Folder2)
 - [Folder 3](Folder3)
 - [Folder 4](Folder4)
