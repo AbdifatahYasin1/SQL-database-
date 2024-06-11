@@ -55,15 +55,13 @@ Now, everything is complete.
 ## Slides
 
 - [Introduction of Database](Introduction of Database.pptx)
-- [Folder 2](Folder2)
-- [Folder 3](Folder3)
-- [Folder 4](Folder4)
-- [Folder 5](Folder5)
-- [Folder 6](Folder6)
-- [Folder 7](Folder7)
-- [Folder 8](Folder8)
+- [Sql Commands](Sql Commands.pptx)
 
-## Resources
+
+
+## SQL server practice
+
+- [Human resource database](HR_Database)
 
 ## Resources
 
@@ -75,6 +73,8 @@ Now, everything is complete.
 - [SQL Cookbook by Anthony Molinaro](https://www.amazon.com/SQL-Cookbook-Query-Solutions-Techniques/dp/0596009763)
 - [SQL in 10 Minutes a Day by Ben Forta](https://www.amazon.com/SQL-Minutes-Sams-Teach-Yourself/dp/0672336073)
 - [SQL Server Documentation](https://docs.microsoft.com/en-us/sql/sql-server/?view=sql-server-ver16)
+
+- [Advannced database ](Advanced database.pdf)
 
 ## Time Management Strategies and Tools for Technology Students in 2024
 
