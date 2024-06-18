@@ -5,6 +5,8 @@ use Human_Resources;
 
 -- use always sql server syntax
 
+firstName
+
 
 CREATE TABLE Employees (
     id INT IDENTITY(1,1) PRIMARY KEY,
@@ -22,4 +24,4 @@ CREATE TABLE Employees (
 -- it like auto increment in mysql
 
 
- t
+ 
