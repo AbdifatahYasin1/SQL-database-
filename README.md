@@ -63,7 +63,7 @@ Now, everything is complete.
 
 ## SQL server practice
 
-- [Human resource database](HR_Database)
+- [Human resource database](SQL-database-\HR_Database)
 
 ## Resources
 
