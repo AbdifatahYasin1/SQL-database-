@@ -61,7 +61,7 @@ Now, everything is complete.
 
 
 
-## SQL server practice
+## Human resource Database | SQl server Practice
 - [data.sql](data.sql)
 - [queries](queries.sql)
 - [data](data.sql)
@@ -78,10 +78,9 @@ Now, everything is complete.
 - [SQL Cookbook by Anthony Molinaro](https://www.amazon.com/SQL-Cookbook-Query-Solutions-Techniques/dp/0596009763)
 - [SQL in 10 Minutes a Day by Ben Forta](https://www.amazon.com/SQL-Minutes-Sams-Teach-Yourself/dp/0672336073)
 - [SQL Server Documentation](https://docs.microsoft.com/en-us/sql/sql-server/?view=sql-server-ver16)
-
 - [Advannced database ](Advanced database.pdf)
 
-## Time Management Strategies and Tools for Technology Students in 2024
+## Time Management Strategies 
 
 - [Time manaagment](Time Management Strategies and Tools for Technology Students in 2024.pdf)
 
