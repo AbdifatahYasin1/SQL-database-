@@ -1,5 +1,3 @@
-Here's the Markdown formatted README file for the "SQL Database" repository:
-
 # SQL Database
 
 Structured SQL learning resource for students aspiring to master database skills.
