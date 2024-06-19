@@ -80,7 +80,7 @@ Now, everything is complete.
 
 ## Time Management Strategies and Tools for Technology Students in 2024
 
-- [Time manaagment ] (Time Management Strategies and Tools for Technology Students in 2024.pdf)
+- [Time manaagment](Time Management Strategies and Tools for Technology Students in 2024.pdf)
 
 ## Assignments
 
