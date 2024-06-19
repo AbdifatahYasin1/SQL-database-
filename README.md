@@ -55,7 +55,9 @@ Now, everything is complete.
 ## Slides
 
 - [Introduction of Database](Introduction of Database.pptx)
-- [Sql Commands](Sql Commands.pptx)
+- [Sql Commands](SQL COMMANDS.pptx)
+- [creating your first database](creating your first database.pptx)
+
 
 
 
