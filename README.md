@@ -83,8 +83,9 @@ Now, everything is complete.
 - [Time manaagment](Time Management Strategies and Tools for Technology Students in 2024.pdf)
 
 ## Assignments
-
+- Assigments will be uploaded in the "Assignments" folder.
 ## Exercises
+- Exercises will be uploaded in the "Exercises" folder.
 
 This README file provides a clear and organized structure for the "SQL Database" repository. It includes the following sections:
 
