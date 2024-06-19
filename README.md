@@ -62,9 +62,10 @@ Now, everything is complete.
 
 
 ## SQL server practice
-  - [data.sql](SQL-database-\HR_Database\data.sql)
-  - [queries.sql](SQL-database-\HR_Database\queries.sql)
-  - [schema.sql](SQL-database-\HR_Database\schema.sql)
+- [data.sql](SQL-database-/HR_Database/data.sql)
+- [queries.sql](SQL-database-/HR_Database/queries.sql)
+- [schema.sql](SQL-database-/HR_Database/schema.sql)
+
 
 
 ## Resources
