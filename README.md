@@ -88,7 +88,7 @@ Now, everything is complete.
 
 ## Assignments
 - [Assigmnet#2-Database-Design](DatabaseDesignAssignment.docx)
-Submission Details:
+## Submission Details:
 - Summarize the information in tables where appropriate
 - Use course content and context in the response (apply course contents)
 - Submit through email only to shiineali101@gmail.com
