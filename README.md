@@ -55,7 +55,9 @@ Now, everything is complete.
 - [Introduction of Database](Introduction of Database.pptx)
 - [Sql Commands](SQL COMMANDS.pptx)
 - [creating your first database](CREATING YOUR FISRT DATABASE AND TABLE.pptx)
-- [Inserting, Updating, and Deleting Data](Modify.pptx)
+- [creating your first database](Modify.pptx)
+
+
 
 
 
