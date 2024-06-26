@@ -87,8 +87,8 @@ Now, everything is complete.
 - [Time manaagment](Time Management Strategies and Tools for Technology Students in 2024.pdf)
 
 ## Assignments
-- [Assigmnet#2-Database-Design](DatabaseDesignAssignment.docx)
-## Submission Details:
+- [Assigment Database design](DatabaseDesignAssignment.docx)
+### Submission Details:
 - Summarize the information in tables where appropriate
 - Use course content and context in the response (apply course contents)
 - Submit through email only to shiineali101@gmail.com
