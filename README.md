@@ -55,14 +55,16 @@ Now, everything is complete.
 - [Introduction of Database](Introduction of Database.pptx)
 - [Sql Commands](SQL COMMANDS.pptx)
 - [creating your first database](CREATING YOUR FISRT DATABASE AND TABLE.pptx)
+- [Inserting, Updating, and Deleting Data](Modify.pptx)
 
 
 
 
 ## Human resource Database | SQl server Practice
+- [schema.sql](schema.sql)
+- [queries.sql](queries.sql)
 - [data.sql](data.sql)
-- [queries](queries.sql)
-- [data](data.sql)
+- [special_commands.sql](special_commands.sql)
 
 
 
