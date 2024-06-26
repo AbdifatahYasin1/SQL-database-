@@ -52,9 +52,9 @@ Now, everything is complete.
 
 ## Slides
 
-- [Introduction of Database](Introduction of Database.pptx)
-- [Sql Commands](SQL COMMANDS.pptx)
-- [creating your first database](CREATING YOUR FISRT DATABASE AND TABLE.pptx)
+- [Introduction of Database](IntroductionofDatabase.pptx)
+- [Sql Commands](SQLCOMMANDS.pptx)
+- [creating your first database](CREATINGYOURFISRTDATABASEANDTABLE.pptx)
 - [Modify the database](Modify.pptx)
 
 
