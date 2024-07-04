@@ -45,3 +45,36 @@ ALTER DATABASE Human_Resources
 MODIFY NAME = Human_Resources1
 
 SELECT name FROM sys.databases;
+
+
+
+-- what is sql server operators
+-- The SQL Server operators are used to compare values.
+
+
+
+-- Between operator
+
+select * from Employees where EmployeeID between 1 and 10;
+
+-- like operator
+
+select * from Employees where FullName like 'Jaamac'; 
+select * from Employees where FullName like 'Jaamac%';
+select * from Employees where FullName like '%Jaamac';
+select * from Employees where FullName like '%Jaamac%';
+
+--or operator
+
+select * from Employees where FullName = 'Jaamac' or FullName = 'Aadan';
+
+--in operator
+select * from Employees where FullName in ('Jaamac', 'Aadan');
+select * from Employees where FullName not in ('Jaamac', 'Aadan');
+select * from Employees where EmployeeID in (1, 2, 3);
+
+
+
+
+--department table and employee table
+-- 1 to many relationship

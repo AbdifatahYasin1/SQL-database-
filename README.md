@@ -58,10 +58,6 @@ Now, everything is complete.
 - [Modify the database](Modify.pptx)
 
 
-
-
-
-
 ## Human resource Database | SQl server Practice
 - [schema.sql](schema.sql)
 - [queries.sql](queries.sql)
