@@ -56,6 +56,7 @@ Now, everything is complete.
 - [Sql Commands](SQLCOMMANDS.pptx)
 - [creating your first database](CREATINGYOURFISRTDATABASEANDTABLE.pptx)
 - [Modify the database](Modify.pptx)
+- [Database relationships](Databaserelationships.pptx)
 
 
 ## Human resource Database | SQl server Practice
