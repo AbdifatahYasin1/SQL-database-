@@ -91,6 +91,32 @@ Now, everything is complete.
 - Submit through email only to shiineali101@gmail.com
 - Submission deadline: July 10th, 2024, 11:59 PM
 
+<div id="deadline-counter"></div>
+
+<script>
+  // Set the deadline date (replace with your own)
+  const deadlineDate = new Date('2023-08-15T23:59:59');
+
+  function updateDeadlineCounter() {
+    const now = new Date().getTime();
+    const timeDiff = deadlineDate.getTime() - now;
+
+    if (timeDiff <= 0) {
+      document.getElementById('deadline-counter').textContent = 'Deadline has passed';
+    } else {
+      const days = Math.floor(timeDiff / (1000 * 60 * 60 * 24));
+      const hours = Math.floor((timeDiff % (1000 * 60 * 60 * 24)) / (1000 * 60 * 60));
+      const minutes = Math.floor((timeDiff % (1000 * 60 * 60)) / (1000 * 60));
+      const seconds = Math.floor((timeDiff % (1000 * 60)) / 1000);
+
+      document.getElementById('deadline-counter').textContent = Time remaining: ${days}d ${hours}h ${minutes}m ${seconds}s;
+    }
+  }
+
+  // Update the deadline counter every second
+  setInterval(updateDeadlineCounter, 1000);
+</script>
+
 
 ## Exercises
 - Exercises will be uploaded in the "Exercises" folder.
