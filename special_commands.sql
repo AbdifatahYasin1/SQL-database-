@@ -10,3 +10,8 @@ SELECT Username, COUNT(*) AS DuplicateCount
 FROM UserlIST
 GROUP BY Username
 HAVING COUNT(*) > 1;
+
+-- beging transaction
+BEGIN TRANSACTION;
+--undo the transaction
+ROLLBACK;

@@ -88,40 +88,20 @@ Now, everything is complete.
 ### Submission Details:
 - Summarize the information in tables where appropriate
 - Use course content and context in the response (apply course contents)
-- Submit through email only to shiineali101@gmail.com
+- Submit through email only to sendtohereyourdocuments@gmail.com
 - Submission deadline: July 10th, 2024, 11:59 PM
 
-<div id="deadline-counter"></div>
 
-<script>
-  // Set the deadline date (replace with your own)
-  const deadlineDate = new Date('2023-08-15T23:59:59');
-
-  function updateDeadlineCounter() {
-    const now = new Date().getTime();
-    const timeDiff = deadlineDate.getTime() - now;
-
-    if (timeDiff <= 0) {
-      document.getElementById('deadline-counter').textContent = 'Deadline has passed';
-    } else {
-      const days = Math.floor(timeDiff / (1000 * 60 * 60 * 24));
-      const hours = Math.floor((timeDiff % (1000 * 60 * 60 * 24)) / (1000 * 60 * 60));
-      const minutes = Math.floor((timeDiff % (1000 * 60 * 60)) / (1000 * 60));
-      const seconds = Math.floor((timeDiff % (1000 * 60)) / 1000);
-
-      document.getElementById('deadline-counter').textContent = Time remaining: ${days}d ${hours}h ${minutes}m ${seconds}s;
-    }
-  }
-
-  // Update the deadline counter every second
-  setInterval(updateDeadlineCounter, 1000);
-</script>
 
 
 ## Exercises
 - Exercises will be uploaded in the "Exercises" folder.
 
 This README file provides a clear and organized structure for the "SQL Database" repository. It includes the following sections:
+
+## SQl cheat sheets
+sql cheat sheets are very important for learning SQL. They provide a quick reference guide for SQL commands, syntax, and best practices. Here are some SQL cheat sheets that you can use:
+- [SQL cheat sheets](SQL-cheat-sheet.pdf)
 
 1. **SQL Database**: The main title of the repository.
 2. **Slides**: A list of links to the slide folders, where each folder is represented as a link.

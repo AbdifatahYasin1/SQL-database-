@@ -4,3 +4,7 @@ select * from Password;
 select * from UserlIST,Password where UserlIST.UserId=Password.UserId;
 -- select username and password
 select UserlIST.Username,Password.PasswordHash from UserlIST,Password where UserlIST.UserId=Password.UserId;
+
+
+
+
