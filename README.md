@@ -153,3 +153,5 @@ sql cheat sheets are very important for learning SQL. They provide a quick refer
 • Aggregate Functions: Examples include COUNT(), SUM(), AVG(), MIN(), and MAX().
 
 • Subqueries: Understand how to use subqueries to retrieve data based on the results of another query.
+
+Good luck everyone !
